@@ -4,6 +4,8 @@
 [![Support_Platform](https://img.shields.io/pypi/pyversions/revChatGPT)](https://pypi.python.org/pypi/revChatGPT)
 [![Downloads](https://static.pepy.tech/badge/revchatgpt)](https://pypi.python.org/pypi/revChatGPT)
 
+English | [简体中文](README_zh-CN.md)
+
 Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.
 
 > ## Support my work
